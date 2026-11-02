@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/deepa/OneDrive/Documents/FPGA/model sim/projects/MUX
+vmux4
+!s110 1793638609
+!i10b 1
+!s100 jAUBgi8`7n7E00RT:4TiA2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9C63EOD?;DND5KzWWJe]k2
+R0
+w1793629031
+8mux4.v
+Fmux4.v
+!i122 0
+L0 3 20
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793638609.000000
+!s107 mux4.v|
+!s90 -reportprogress|300|mux4.v|
+!i113 1
+Z4 tCvgOpt 0
+vmux4_tb
+!s110 1793638618
+!i10b 1
+!s100 >SdITUDBC=Yi@<SncFJ=`0
+R1
+I5h5CK49@a?]23D[Qi3X;81
+R0
+w1793629087
+8mux4_tb.v
+Fmux4_tb.v
+!i122 1
+L0 3 25
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793638618.000000
+!s107 mux4_tb.v|
+!s90 -reportprogress|300|mux4_tb.v|
+!i113 1
+R4

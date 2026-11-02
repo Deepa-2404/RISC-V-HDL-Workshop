@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/deepa/OneDrive/Documents/FPGA/model sim/projects/HALF ADDER
+vfour_bit_adder
+Z1 !s110 1793628102
+!i10b 1
+!s100 Kco<SYMBbSa>@9KcNz8K50
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3@RlTO@2BE3z7chPLIAeR2
+R0
+Z3 w1793627814
+Z4 8four_bit_adder.v
+Z5 Ffour_bit_adder.v
+!i122 0
+L0 32 16
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z8 !s108 1793628102.000000
+Z9 !s107 four_bit_adder.v|
+Z10 !s90 -reportprogress|300|four_bit_adder.v|
+!i113 1
+Z11 tCvgOpt 0
+vfour_bit_adder_tb
+!s110 1793628119
+!i10b 1
+!s100 04neK1gi_l^nz[VD4JSSB2
+R2
+IR756W[SJWZ[lJ;CKNCg7T0
+R0
+w1793627838
+8four_bit_adder_tb.v
+Ffour_bit_adder_tb.v
+!i122 1
+L0 3 21
+R6
+R7
+r1
+!s85 0
+31
+!s108 1793628119.000000
+!s107 four_bit_adder_tb.v|
+!s90 -reportprogress|300|four_bit_adder_tb.v|
+!i113 1
+R11
+vfull_adder
+R1
+!i10b 1
+!s100 2K>5C[^ieJ[MIOf[cz^iU0
+R2
+IBa<AddDT5HJ0E[?j>@=TR3
+R0
+R3
+R4
+R5
+!i122 0
+L0 14 16
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vhalf_adder
+R1
+!i10b 1
+!s100 Olb4oFM`[FRbXzT39fL6Z3
+R2
+IYjjY^=S4G?kabdj<Jbk390
+R0
+R3
+R4
+R5
+!i122 0
+L0 3 9
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
