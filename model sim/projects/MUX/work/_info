@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dC:/Users/deepa/OneDrive/Documents/FPGA/model sim/projects/MUX
 vmux4
-!s110 1793638609
+!s110 1793723721
 !i10b 1
 !s100 jAUBgi8`7n7E00RT:4TiA2
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -26,13 +26,13 @@ Z3 OV;L;2020.3;71
 r1
 !s85 0
 31
-!s108 1793638609.000000
+!s108 1793723721.000000
 !s107 mux4.v|
 !s90 -reportprogress|300|mux4.v|
 !i113 1
 Z4 tCvgOpt 0
 vmux4_tb
-!s110 1793638618
+!s110 1793723732
 !i10b 1
 !s100 >SdITUDBC=Yi@<SncFJ=`0
 R1
@@ -48,7 +48,7 @@ R3
 r1
 !s85 0
 31
-!s108 1793638618.000000
+!s108 1793723732.000000
 !s107 mux4_tb.v|
 !s90 -reportprogress|300|mux4_tb.v|
 !i113 1

@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dC:/Users/deepa/OneDrive/Documents/FPGA/model sim/projects/HALF ADDER
 vfour_bit_adder
-Z1 !s110 1793628102
+Z1 !s110 1793723980
 !i10b 1
 !s100 Kco<SYMBbSa>@9KcNz8K50
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -26,13 +26,13 @@ Z7 OV;L;2020.3;71
 r1
 !s85 0
 31
-Z8 !s108 1793628102.000000
+Z8 !s108 1793723980.000000
 Z9 !s107 four_bit_adder.v|
 Z10 !s90 -reportprogress|300|four_bit_adder.v|
 !i113 1
 Z11 tCvgOpt 0
 vfour_bit_adder_tb
-!s110 1793628119
+!s110 1793723992
 !i10b 1
 !s100 04neK1gi_l^nz[VD4JSSB2
 R2
@@ -48,7 +48,7 @@ R7
 r1
 !s85 0
 31
-!s108 1793628119.000000
+!s108 1793723992.000000
 !s107 four_bit_adder_tb.v|
 !s90 -reportprogress|300|four_bit_adder_tb.v|
 !i113 1

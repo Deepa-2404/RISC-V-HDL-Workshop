@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/deepa/OneDrive/Documents/FPGA/model sim/projects/32-bit RISC-V processor
+vriscv_5stage
+!s110 1793699431
+!i10b 1
+!s100 XE>na_b8=UfMajIRNM=Z=2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IR]9Y7F3:Ah1l[C[FKMTNk0
+R0
+w1793699119
+8riscv_5stage.v
+Friscv_5stage.v
+!i122 0
+L0 4 420
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793699430.000000
+!s107 riscv_5stage.v|
+!s90 -reportprogress|300|riscv_5stage.v|
+!i113 1
+Z4 tCvgOpt 0
+vtb_riscv_5stage
+!s110 1793699441
+!i10b 1
+!s100 >1hMN?TeY@GL7CdN<lBV;0
+R1
+I_KV]9mG0>CL;5khDbfg0G0
+R0
+w1793699168
+8tb_riscv_5stage.v
+Ftb_riscv_5stage.v
+!i122 1
+L0 4 104
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793699441.000000
+!s107 tb_riscv_5stage.v|
+!s90 -reportprogress|300|tb_riscv_5stage.v|
+!i113 1
+R4

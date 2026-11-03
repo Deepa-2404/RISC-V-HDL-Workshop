@@ -9,53 +9,53 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/deepa/OneDrive/Documents/FPGA/model sim/projects/D-FLIFLOP
-vdff
+vflip
 Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z2 !s110 1793594930
+Z2 !s110 1793725661
 !i10b 1
-!s100 XYK>]O__E>k^gIGjO0aEC1
+!s100 fRz4QcTBXYoT?]:6QDLab2
 Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
-Ig^ecWYWSCdMDnj[c1AXLQ2
+IRX8nS1@cj2K5gDJHHUeRe2
 S1
 R0
-w1793594842
-8dff.sv
-Fdff.sv
+w1793725561
+8flip.sv
+Fflip.sv
 !i122 0
-L0 1 12
+L0 1 16
 Z4 VDg1SIo80bB@j0V0VzS_@n1
 Z5 OV;L;2020.3;71
 r1
 !s85 0
 31
-Z6 !s108 1793594927.000000
-!s107 dff_tb.sv|dff.sv|
-Z7 !s90 -reportprogress|300|-sv|dff.sv|dff_tb.sv|
+Z6 !s108 1793725661.000000
+!s107 flip.sv|
+!s90 -reportprogress|300|-sv|flip.sv|
 !i113 1
 o-sv
-Z8 tCvgOpt 0
-vdff_tb
+Z7 tCvgOpt 0
+vflip_tb
 R1
 R2
 !i10b 1
-!s100 G]DVZo8;Q:322i80g615c0
+!s100 WAOh0KdPXRcH0aU;UGNEe2
 R3
-I7K9@HFPR@A_RJH:Z975Ik3
+IB_kLV<bVTRQ8z6jh;Bij;0
 S1
 R0
-w1793594856
-8dff_tb.sv
-Fdff_tb.sv
-!i122 0
-L0 1 24
+w1793725630
+8flip_tb.sv
+Fflip_tb.sv
+!i122 1
+L0 1 36
 R4
 R5
 r1
 !s85 0
 31
 R6
-Z9 !s107 dff_tb.sv|dff.sv|
-R7
+!s107 flip_tb.sv|
+!s90 -reportprogress|300|-sv|flip_tb.sv|
 !i113 1
 o-sv
-R8
+R7
